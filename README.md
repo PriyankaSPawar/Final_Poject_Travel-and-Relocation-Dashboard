@@ -35,11 +35,11 @@ This project consists of the following deliverables:
 
 1. **Presentation**: 
    - A comprehensive presentation summarizing the project objectives, methodology, findings, and conclusions. 
-   - [Download the Presentation]()
+   - [Download the Presentation](https://github.com/PriyankaSPawar/Final_Poject_Travel-and-Relocation-Dashboard/blob/main/Julia_Priyanka_Final_Presentation.pdf)
 
 2. **Python Notebook Files**: 
    - Jupyter notebooks used for data collection, cleaning, and analysis.
-   - [View the Notebooks]()
+   - [View the Notebooks](https://github.com/PriyankaSPawar/Final_Poject_Travel-and-Relocation-Dashboard/tree/main/Work%20Files)
 
 3. **Tableau Dashboards**:
    - **Travelers Dashboard**: Insights for planning trips to European destinations.
