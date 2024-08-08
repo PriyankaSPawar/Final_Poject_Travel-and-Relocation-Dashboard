@@ -48,7 +48,7 @@ This project consists of the following deliverables:
 
 4. **Dashboard Story**:
    - A narrative that walks through the insights and decisions presented in the dashboards.
-   - [View the Story](https://public.tableau.com/views/Julia_Priyanka_WBSCoding_Project/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+   - [View the Story](https://public.tableau.com/views/Julia_Priyanka_WBSCoding_Project/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Challenges
 - **Data Availability**: Finding comprehensive and up-to-date datasets that cover all the relevant parameters for travel and relocation decisions was challenging. We had to rely on multiple sources and combine them to create a cohesive dataset.
