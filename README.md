@@ -58,12 +58,13 @@ This project consists of the following deliverables:
 ## Getting Started
 To explore the dashboards, you can visit the Tableau Public link: [NextStop Europe Tableau Dashboards](https://public.tableau.com/app/profile/priyanka.pawar3354/viz/Julia_Priyanka_WBSCoding_Project/Story1)
 
-For those interested in the technical details or contributing to this project, follow the instructions below.
+
+For those interested in the technical details: 
 
 ### Prerequisites
 - **Python**
 - **Tableau**
-- **Jupyter Notebook** (optional for data exploration)
+- **Jupyter Notebook** (for data exploration)
 
 ## Project Structure
 - /data: Contains the datasets used in the project.
