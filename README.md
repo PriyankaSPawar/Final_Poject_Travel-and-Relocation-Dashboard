@@ -30,6 +30,26 @@ The project includes two interactive Tableau dashboards:
 - **Data Visualization**: Tableau, Microsoft AI Designer
 - **Project Management**: Jupyter Notebooks, GitHub
 
+## Project Deliverables
+This project consists of the following deliverables:
+
+1. **Presentation**: 
+   - A comprehensive presentation summarizing the project objectives, methodology, findings, and conclusions. 
+   - [Download the Presentation]()
+
+2. **Python Notebook Files**: 
+   - Jupyter notebooks used for data collection, cleaning, and analysis.
+   - [View the Notebooks]()
+
+3. **Tableau Dashboards**:
+   - **Travelers Dashboard**: Insights for planning trips to European destinations.
+   - **Relocants Dashboard**: Key information for choosing an ideal relocation spot.
+   - [Explore the Dashboards](https://public.tableau.com/app/profile/priyanka.pawar3354/viz/Julia_Priyanka_WBSCoding_Project/Story1)
+
+4. **Dashboard Story**:
+   - A narrative that walks through the insights and decisions presented in the dashboards.
+   - [View the Story](https://public.tableau.com/app/profile/priyanka.pawar3354)
+
 ## Challenges
 - **Data Availability**: Finding comprehensive and up-to-date datasets that cover all the relevant parameters for travel and relocation decisions was challenging. We had to rely on multiple sources and combine them to create a cohesive dataset.
 - **Data Cleaning**: Merging data from different sources required extensive cleaning and normalization to ensure consistency.
@@ -46,15 +66,20 @@ For those interested in the technical details or contributing to this project, f
 - **Jupyter Notebook** (optional for data exploration)
 
 ## Project Structure
-/data: Contains the datasets used in the project.
-/notebooks: Jupyter notebooks for data cleaning and analysis.
-/scripts: Python scripts used for data processing.
-/dashboards: Tableau files used to create the dashboards.
-README.md: Project documentation.
+- /data: Contains the datasets used in the project.
+
+- /notebooks: Jupyter notebooks for data cleaning and analysis.
+
+- /scripts: Python scripts used for data processing.
+
+- /dashboards: Tableau files used to create the dashboards.
+
+- README.md: Project documentation.
 
 ## Project Contributors
-**- Priyanka Pawar**
-**- Julia Keller**
+- **Priyanka Pawar**
+
+- **Julia Keller** 
 
 ## Future Scope
 - **Expansion of Parameters**: Incorporating additional parameters such as more environmental factors, more languages, more cities.
